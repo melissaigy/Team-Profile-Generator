@@ -16,6 +16,8 @@
   Clone this repository to your local machine and install node.js
   ## [Usage](#table-of-contents)
   Once installed, using the terminal, enter 'node index.js' to begin answering the prompts. Once finished, a new index.html file will be available in the dist folder.
+  View walkthrough video here - [Screencastify](https://drive.google.com/file/d/1AaYicRnUp9fCdStr1kCGvtoW08B0UGKs/view)<br>
+<img src="/imgs/ranscreenshot.png">
   ## [Contributing](#table-of-contents)
   I am not accepting contributions at this time.
   ## [Tests](#table-of-contents)
