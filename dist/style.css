@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#navbar {
+    background-color: rgba(245, 11, 71, 0.9);
+    color: black;
+    font-size: 50px;
+    text-shadow: 1px 1px 2px pink;;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+
+.card-header {
+    background-color: rgba(245, 11, 71, 0.9);
+    color: black;
+    text-shadow: 1px 1px 2px pink;;
+}
+
+.card-body {
+    background-color: pink;
+    color: black;
+    text-shadow: 1px 1px 2px rgba(245, 11, 71, 0.9);
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+    
+}
